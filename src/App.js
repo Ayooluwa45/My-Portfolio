@@ -11,10 +11,11 @@ import Footer from "./components/footer/Footer";
 function App() {
   return (
     <>  
+    <Header/>
     <About/>
   <Contact/>
   <Experience/>
-  <Header/>
+  
   <Nav/>
   <Portfolio/>
   <Services/>
