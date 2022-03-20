@@ -8,7 +8,7 @@ function CTA() {
         Download CV
       </a>
       <a href="#contact" className="btn btn-primary">
-        Let's Talk
+      Let's Talk
       </a>
 
      </div>
