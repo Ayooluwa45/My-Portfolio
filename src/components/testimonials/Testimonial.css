@@ -44,6 +44,7 @@ background: var(--color-primary);
       .container .testimonialContainer{
        width: 60%;
        
+      
       }
       .testimonial p{
         width: var(--container--width--sm);
@@ -55,11 +56,14 @@ background: var(--color-primary);
    /*-------------MEDIA QUERIES(small devices).............*/
    @media screen and (max-width: 600px) {
    
-      .container .testimonialContainer{
+      .container.testimonialContainer{
           width: var(--container--width--sm);
+         padding: 1rem 1rem ;
+         padding-bottom: 3rem;
          }
          .testimonial p{
           width: var(--container--width--sm);
-          margin: 2rem;
+          margin: 1rem;
       }
+      
    }
