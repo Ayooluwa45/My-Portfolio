@@ -34,7 +34,7 @@ function Experience() {
                   <BsFillPatchCheckFill className="experienceIcons"/>
                   <div>
                   <h4>Javscript</h4>
-                  <small className="text-light">Experienced</small>
+                  <small className="text-light">Intermediate</small>
                   </div>
               </article>
 
@@ -42,7 +42,7 @@ function Experience() {
                   <BsFillPatchCheckFill className="experienceIcons"/>
                   <div>
                   <h4>Tailwind</h4>
-                  <small className="text-light">Experienced</small>
+                  <small className="text-light">Intermediate</small>
                   </div>
               </article>
 
@@ -50,7 +50,7 @@ function Experience() {
                   <BsFillPatchCheckFill className="experienceIcons"/>
                <div>
                <h4>Bootstrap</h4>
-                  <small className="text-light">Experienced</small>
+                  <small className="text-light">Intermediate</small>
                </div>
               </article>
 
@@ -58,7 +58,7 @@ function Experience() {
                   <BsFillPatchCheckFill className="experienceIcons"/>
                  <div>
                  <h4>React</h4>
-                  <small className="text-light">Experienced</small>
+                  <small className="text-light">Intermediate</small>
                  </div>
               </article>
             </div>
@@ -78,7 +78,15 @@ function Experience() {
               <article className="experienceDetail">
                   <BsFillPatchCheckFill className="experienceIcons"/>
                   <div>
-                  <h4>ARCGIS</h4>
+                  <h4>FIREBASE</h4>
+                  <small className="text-light">Intermediate</small>
+                  </div>
+              </article>
+
+              <article className="experienceDetail">
+                  <BsFillPatchCheckFill className="experienceIcons"/>
+                  <div>
+                  <h4>QGIS</h4>
                   <small className="text-light">Experienced</small>
                   </div>
               </article>
@@ -86,24 +94,16 @@ function Experience() {
               <article className="experienceDetail">
                   <BsFillPatchCheckFill className="experienceIcons"/>
                   <div>
-                  <h4>ARCGIS</h4>
-                  <small className="text-light">Experienced</small>
+                  <h4>POSTGIS/SQL</h4>
+                  <small className="text-light">Intermediate</small>
                   </div>
               </article>
 
               <article className="experienceDetail">
                   <BsFillPatchCheckFill className="experienceIcons"/>
                   <div>
-                  <h4>ARCGIS</h4>
-                  <small className="text-light">Experienced</small>
-                  </div>
-              </article>
-
-              <article className="experienceDetail">
-                  <BsFillPatchCheckFill className="experienceIcons"/>
-                  <div>
-                  <h4>ARCGIS</h4>
-                  <small className="text-light">Experienced</small>
+                  <h4>PYTHON</h4>
+                  <small className="text-light">Intermediate</small>
                   </div>
               </article>
 

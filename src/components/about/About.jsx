@@ -1,5 +1,5 @@
 import React from "react";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/mine.jpeg";
 import{FaAward} from 'react-icons/fa'
 import{FaFolderOpen} from 'react-icons/fa'
 import './About.css'
@@ -39,7 +39,7 @@ function About() {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam ipsum, aperiam ipsa doloribus veniam ratione temporibus? Ipsum facere ab eius dignissimos ullam, repellendus in quia, sint dolores voluptates, tempore laboriosam.
+           I am innovative, creative and optimized solution seeker. Excited to be at the deployment phase of my new career as a web developer with ability to learn and collaborate in rapidly changing environment. I am looking for a challenging position where i can apply my knowledge, develop my skills and contribute to the growth of the organization.
             
           </p>
 
