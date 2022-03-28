@@ -1,6 +1,6 @@
 .servicesContainer{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 3rem;
 }
 
@@ -12,7 +12,7 @@
     background: var(--color-bg-variant);
     border-radius: 0 0 2rem 2rem;
     border: 1px solid var(--color-primary);
-    height: fit-content;
+  
     transition: var(--transistion);
 }
 
@@ -47,12 +47,19 @@
 
 .serviceIcons{
     color: var(--color-primary);
-    margin-top: 2px;
-    font-size: 4rem;
+    margin-top: 1rem;
+    font-size: 2rem;
 } 
 
+
+.serviceIconss{
+    color: var(--color-primary);
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
 .serviceList p{
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 
 

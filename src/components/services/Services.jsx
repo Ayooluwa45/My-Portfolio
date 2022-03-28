@@ -9,7 +9,7 @@ function Services() {
      <h2>Services</h2>
 
      <div className='container servicesContainer'>
-       <article className='service'>
+       {/* <article className='service'>
          <div className='serviceHead'>
             <h3>UI/UX design</h3>
          </div>
@@ -44,43 +44,44 @@ function Services() {
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
           </li>
         </ul>
-       </article>
+       </article> */}
 
 
        {/* Web Development */}
        <article className='service'>
          <div className='serviceHead'>
-            <h3>Web Development</h3>
+            <h3>Web Development Services</h3>
          </div>
         <ul className='serviceList'>
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          <p>Building powerful, fast, user-friendly and reactive web apps </p>
           </li>
 
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          <p>Designing and implementing user-facing features for websites and application using React;jS </p>
           </li>
 
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          <p>Firebase 9 authentication, queries, storage </p>
           </li>
 
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          <p>Providing amazing user experiences by leveraging the power of JavaScript with ease </p>
           </li>
 
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          <p>Developing and implementing front-end architecture to support user-interface concepts </p>
           </li>
 
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          
+          <p>Troubleshooting interface software and debugging application codes </p>
           </li>
         </ul>
        </article>
@@ -92,34 +93,31 @@ function Services() {
          </div>
         <ul className='serviceList'>
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          <p>Performing standard spatial analyses, data searches and collecting geographical data using GPS other equipment</p>
           </li>
 
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          <p>Establishing map area and developing symbology using cartograaphic and design principle</p>
           </li>
 
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          <p>Developing and implementing queries, scripts and operating GIS-specific hardware including large format plotter and scanner </p>
           </li>
 
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          <p>Georeferencing digital maps to align with real ground locations, using GPS and other data as controls </p>
           </li>
 
           <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
+          <div className='serviceIconss'><BsCheck /></div>
+          <p>Assising in training and mentoring newer GIS staff members </p>
           </li>
 
-          <li>
-          <BsCheck className='serviceIcons'/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit eum </p>
-          </li>
+          
         </ul>
        </article>
 
