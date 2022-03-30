@@ -24,12 +24,8 @@ function About() {
                <h5>Experience</h5>
                <small>1 year Working </small>
             </article>
-
-            <article className="aboutCard">
-            <FaAward className="aboutIcons"/>
-               <h5>Experience</h5>
-               <small>1 year Working </small>
-            </article>
+            
+            
 
             <article className="aboutCard">
             <FaFolderOpen className="aboutIcons"/>
