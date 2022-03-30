@@ -2,10 +2,11 @@ import React from "react";
 import IMG1 from "../../assets/my.jpeg";
 import IMG2 from "../../assets/my2.jpeg";
 import IMG3 from "../../assets/my3.jpeg";
+import IMG4 from "../../assets/my4.jpeg";
+import IMG5 from "../../assets/my5.jpeg";
 
 
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
+
 import IMG6 from "../../assets/portfolio6.jpg";
 import "./Portfolio.css";
 
@@ -28,28 +29,28 @@ const data = [
     id: 3,
     image: IMG3,
     title: "An app where you can register and create viewer ticket using MERN Stack.",
-    github: "https://github.com",
+    github: "https://github.com/Ayooluwa45/Support-Desk",
     demo: "https://dribbble.com/shots/4571422-Joany-Support",
   },
   {
     id: 4,
     image: IMG4,
-    tite: "",
-    github: "https://github.com/Ayooluwa45/Support-Desk",
+    title: "A responsive static food website page using Html, Css and Javascript",
+    github: "ttps://github.com/Ayooluwa45/food-website",
     demo: "https://drible.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization",
   },
   {
     id: 5,
     image: IMG5,
-    tite: "",
-    github: "https://github.com",
-    demo: "https://drible.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization",
+    title: "This app is created to test my Javascript knowledge",
+    github: "https://github.com/Ayooluwa45/Score-Project",
+    demo: "https://dribbble.com/shots/17238538-Pivot-Project-Management-Brand",
   },
 
   {
     id: 6,
     image: IMG6,
-    tite: "",
+    title: "",
     github: "https://github.com",
     demo: "https://drible.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization",
   },
