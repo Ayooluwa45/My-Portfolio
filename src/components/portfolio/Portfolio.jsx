@@ -4,10 +4,7 @@ import IMG2 from "../../assets/my2.jpeg";
 import IMG3 from "../../assets/my3.jpeg";
 import IMG4 from "../../assets/my4.jpeg";
 import IMG5 from "../../assets/my5.jpeg";
-
-
-
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG6 from "../../assets/my6.jpeg";
 import "./Portfolio.css";
 
 const data = [
@@ -50,9 +47,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "",
-    github: "https://github.com",
-    demo: "https://drible.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization",
+    title: "This app allows user to send and receive feedback",
+    github: "https://github.com/Ayooluwa45/feedback-app",
+    demo: "https://dribbble.com/shots/14482492-Feedback-Cards-UI-Design",
   },
 ];
 
