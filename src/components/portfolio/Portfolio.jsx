@@ -39,7 +39,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "This app is created to test my Javascript knowledge",
+    title: "This app is created to test my Javascript, BULMER Css knowledge",
     github: "https://github.com/Ayooluwa45/Score-Project",
     demo: "https://dribbble.com/shots/17238538-Pivot-Project-Management-Brand",
   },
