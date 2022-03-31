@@ -66,5 +66,9 @@ background: var(--color-primary);
           width: var(--container--width--sm);
           margin: 1rem;
       }
+
+      #section{
+        margin-top: 20rem;
+      }
       
    }
