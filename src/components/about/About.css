@@ -26,7 +26,7 @@
 
 .aboutCards{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
 }
 
@@ -92,13 +92,20 @@
     .aboutCards{
         grid-template-columns: 1fr, 1fr;
         gap: 1rem;
+        
+       
     }
 
     .aboutContent{
         text-align: center;
+        
     }
 
     .aboutContent p{
         margin: 1.5rem 0;
+    }
+
+    .aboutMeImage{
+        margin-top: 4rem;
     }
 }
