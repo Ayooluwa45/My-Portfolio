@@ -1,4 +1,4 @@
-import cv from "../../assets/cv.pdf";
+import cv from "../../assets/RealCV.pdf";
 
 
 function CTA() {

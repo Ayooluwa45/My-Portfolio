@@ -18,7 +18,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "A house market place app where you can rent amd sell your house.",
+    title: "A house market place app where you can rent and sell your house.",
     github: "https://github.com/Ayooluwa45/house-marketplace-project",
     demo: "https://house-marketplace-project-virid.vercel.app/",
   },

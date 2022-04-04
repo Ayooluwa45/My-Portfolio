@@ -94,7 +94,7 @@ function Services() {
         <ul className='serviceList'>
           <li>
           <div className='serviceIconss'><BsCheck /></div>
-          <p>Performing standard spatial analyses, data searches and collecting geographical data using GPS other equipment</p>
+          <p>Performing standard spatial analyses, data searches and collecting geographical data using GPS and other equipment</p>
           </li>
 
           <li>
@@ -114,7 +114,7 @@ function Services() {
 
           <li>
           <div className='serviceIconss'><BsCheck /></div>
-          <p>Assising in training and mentoring newer GIS staff members </p>
+          <p>Assisting in training and mentoring newer GIS staff members </p>
           </li>
 
           
