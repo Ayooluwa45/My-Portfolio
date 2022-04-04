@@ -13,14 +13,14 @@ const data = [
     image: IMG1,
     title: 'Using Github REST API to search users and display info.',
     github: "https://github.com/Ayooluwa45/Github-Finder",
-    demo: "https://dribbble.com/shots/10410812-GitHub-Homepage",
+    demo: "https://github-finde.vercel.app/",
   },
   {
     id: 2,
     image: IMG2,
     title: "A house market place app where you can rent amd sell your house.",
     github: "https://github.com/Ayooluwa45/house-marketplace-project",
-    demo: "https://drible.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization",
+    demo: "https://house-marketplace-project-virid.vercel.app/",
   },
   {
     id: 3,
